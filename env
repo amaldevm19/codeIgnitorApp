@@ -48,6 +48,11 @@
 #--------------------------------------------------------------------
 # DATABASE
 #--------------------------------------------------------------------
+database.default.hostname = localhost
+database.default.database = ci4tutorial
+database.default.username = root
+database.default.password = mysql
+database.default.DBDriver = MySQLi
 
 # database.default.hostname = localhost
 # database.default.database = ci4
